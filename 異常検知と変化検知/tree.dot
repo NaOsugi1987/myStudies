@@ -1,7 +1,7 @@
 digraph Tree {
-0 [label="X[0] <= 3.6341\ngini = 0.00199600599201\nsamples = 1001000", shape="box"] ;
-1 [label="gini = 0.0007\nsamples = 1000223\nvalue = [  9.99854000e+05   3.69000000e+02]", shape="box"] ;
+0 [label="X[0] <= 3.6571\ngini = 0.00199600599201\nsamples = 1001000", shape="box"] ;
+1 [label="gini = 0.0007\nsamples = 1000237\nvalue = [  9.99894000e+05   3.43000000e+02]", shape="box"] ;
 0 -> 1 ;
-2 [label="gini = 0.3052\nsamples = 777\nvalue = [ 146.  631.]", shape="box"] ;
+2 [label="gini = 0.2393\nsamples = 763\nvalue = [ 106.  657.]", shape="box"] ;
 0 -> 2 ;
 }
